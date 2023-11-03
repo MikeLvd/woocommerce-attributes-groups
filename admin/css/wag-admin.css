@@ -1,0 +1,16 @@
+.remove-rf-row {
+    background: url(../images/sprite.png) -66px -116px no-repeat #fff;
+    display: block;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+.remove-rf-row:hover {
+    background: url(../images/sprite.png) -66px -166px no-repeat #fff;
+}
+
+#product-attributes-group-table select{
+    width: 100%;
+}
